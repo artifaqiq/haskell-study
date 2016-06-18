@@ -1,1 +1,3 @@
-# haskell-study
+# stepic 
+# haskell
+# course
